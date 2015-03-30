@@ -1,9 +1,9 @@
 <?php 
 class ControlFtp
 {
-	private $servidor="216.251.81.43";
-	private $usuario = "ahumada";
-	private $clave = "D@ed.ed!ed3eD";
+	private $servidor="ipserver";
+	private $usuario = "user";
+	private $clave = "password";
 	private $conexion;
 
     public function conectarse() {
